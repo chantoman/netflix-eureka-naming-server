@@ -85,7 +85,7 @@
 						<image>openjdk:11  </image>
 					</from>
 					<to>
-						<image>casaconsulting/mws/${project.artifactId}:${project.version}
+						<image>gcr.io/d605-271208/d605/${project.artifactId}:${project.version}
 						</image>
 					</to>
 					<container>
